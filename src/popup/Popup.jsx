@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './Popup.css';
 
 const Popup = () => {
-  const score = 8; // Hardcoded for demo
+  const score = 8; 
 
   return (
     <div className="popup">
